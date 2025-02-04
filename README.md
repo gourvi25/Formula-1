@@ -156,6 +156,5 @@ DELETE /results/{id} - Delete a result
 2. As you can see the data is present in the database\
 ![f1_manager_data](https://github.com/user-attachments/assets/6f7dba09-2180-4acc-b74c-ba995f601350)
 
-***Made with ❤️ using Java and Spring Boot.***
 
 
